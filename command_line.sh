@@ -1,0 +1,1 @@
+python main.py -hs1 256 -l1 1 -hs2 256 -l2 1 -b 64 -gpu 1 -lr 0.001 -w 0 -o output/output.txt -e 10 --saving_path model_params/target_model_params.pth
